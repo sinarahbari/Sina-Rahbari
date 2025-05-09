@@ -1,4 +1,4 @@
-<img src="https://github.com/sinarahbari/Sina-Rahbari/raw/main/Coffee.jpg" alt="Sinover Image" style="display: inline; margin:center;" /><h1 align="center">
+<img src="https://github.com/sinarahbari/Sina-Rahbari/raw/main/Coffee.jpg" alt="Sinover Image" style="display: inline; margin-left: 200px;" /><h1 align="center">
 👋 Hey there, I'm Sina Rahbari!</h1>
 <h3 align="center">A Passionate Front-End Developer & Digital Creator</h3>
 
