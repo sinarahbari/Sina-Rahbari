@@ -1,4 +1,4 @@
-<img src="https://github.com/sinarahbari/Sina-Rahbari/raw/main/sinover.jpg" alt="banner" width="100%" />
+(path/to/your/sinover.jpg)
 <h1 align="center">👋 Hey there, I'm Sina Rahbari!</h1>
 <h3 align="center">A Passionate Front-End Developer & Digital Creator</h3>
 
