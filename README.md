@@ -1,8 +1,6 @@
 
-<img align="center">
+<img align="center" src="https://github.com/sinarahbari/Sina-Rahbari/raw/main/sinove-1.jpg" alt="Sinover Image" style="display:block; margin-left:200px; />
 
-<img align="center" src="https://github.com/sinarahbari/Sina-Rahbari/raw/main/sinove-1.jpg" alt="Sinover Image" style="display:block; margin-left:200px; "
-</img>
 
 
 <h1 align="center"> 👋 Hey there, I'm Sina Rahbari!</h1>
