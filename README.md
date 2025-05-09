@@ -1,5 +1,40 @@
 
-<img align="center" src="https://github.com/sinarahbari/Sina-Rahbari/raw/main/sinove-1.jpg" alt="Sinover Image" style="display:block; margin-left:200px; />
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>کاور و نوشته</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .cover {
+            width: 100%;
+            max-width: 600px;
+            margin-top: 20px; 
+        }
+        .text {
+            margin-top: 20px;
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+    <img src="URL-تصویر-کاور" alt="کاور" class="cover">
+    <div class="text">
+        اینجا متن شما قرار می‌گیرد.
+    </div>
+</body>
+</html>
 
 
 
