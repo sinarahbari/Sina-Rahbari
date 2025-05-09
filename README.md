@@ -5,9 +5,9 @@
 <div align="center" style="position: relative; top: -50px;">
   <img src="1000052761-02.jpeg" alt="Profile Picture" style="width:150px; height:150px; border-radius:50%; border: 3px solid white;">
 </div>
-<!-- <p align="center">
-  <img src="sinove-1.jpg" />
-</p> -->
+<p align="center">
+  <img src="1000052761-02.jpeg" />
+</p>
 
 
 <h1 align="center"> 👋 Hey there, I'm Sina Rahbari!</h1>
