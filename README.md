@@ -1,7 +1,13 @@
+<!-- کاور اصلی -->
+<img src="sinove-1.jpgا" alt="Cover" style="width:100%;">
 
-<p align="center">
+<!-- عکس پروفایل به صورت دایره -->
+<div align="center" style="position: relative; top: -50px;">
+  <img src="Coffee.jpg" alt="Profile Picture" style="width:150px; height:150px; border-radius:50%; border: 3px solid white;">
+</div>
+<!-- <p align="center">
   <img src="sinove-1.jpg" />
-</p>
+</p> -->
 
 
 <h1 align="center"> 👋 Hey there, I'm Sina Rahbari!</h1>
