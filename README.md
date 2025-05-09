@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Sinover.JPG" style="width: 600px; height: 600px; border-radius: 20px;" />
+  <img src="Sinover.JPG" style="width: 600px; height: 500px; border-radius: 20px;" />
 </p>
 
 
