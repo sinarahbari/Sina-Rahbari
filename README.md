@@ -1,4 +1,4 @@
-![Sinover Image](https://github.com/sinarahbari/Sina-Rahbari/raw/main/sinover-1.jpg)
+![Sinover Image](https://github.com/sinarahbari/Sina-Rahbari/raw/main/sinove-1.jpg)
 <h1 align="center">👋 Hey there, I'm Sina Rahbari!</h1>
 <h3 align="center">A Passionate Front-End Developer & Digital Creator</h3>
 
